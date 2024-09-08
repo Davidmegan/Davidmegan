@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*I'm David Megan C*
+*I'm David Megan C* <br>
+
 *Pre-final year*
